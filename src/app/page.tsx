@@ -12,7 +12,7 @@ export default function Home() {
             <p className="text-xl mb-8">
               We are dedicated to providing innovative solutions and exceptional services
               to help businesses thrive in today's dynamic market.
-            </p>
+            </p> 
             <button className="bg-white text-primary px-8 py-3 rounded-full font-semibold hover:bg-opacity-90 transition-all flex items-center mx-auto">
               Get Started
               <ArrowRightIcon className="w-5 h-5 ml-2" />
