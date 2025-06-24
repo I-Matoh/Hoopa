@@ -9,7 +9,7 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
             <h1 className="text-5xl font-bold mb-6">Welcome to Hoopa</h1>
-            <p className="text-xl mb-8">
+            <p className="text-xl mb-8"> 
               We are dedicated to providing innovative solutions and exceptional services
               to help businesses thrive in today's dynamic market.
             </p> 
@@ -51,7 +51,7 @@ export default function Home() {
             <div className="bg-white p-6 rounded-lg shadow-lg">
               <h3 className="text-xl font-bold mb-4">Business Consulting</h3>
               <ul className="space-y-2">
-                <li>Strategic Planning</li>
+                <li>Strategic Planning</li> 
                 <li>Market Research & Analysis</li>
                 <li>Operational Efficiency</li>
               </ul>
