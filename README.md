@@ -35,7 +35,7 @@ Hoopa offers a comprehensive suite of services designed to address the diverse n
     * **[Specific Service 1.3 (e.g., Content Marketing)]**: Create compelling and valuable content to attract and retain customers.
     * **[Specific Service 1.4 (e.g., Paid Advertising (PPC))]**: Drive targeted traffic and generate leads through effective advertising campaigns.
 
-* **[Service Category 2 (e.g., Web Development & Design)]**
+* **[Service Category 2 (e.g., Web Development & Design)]** 
     * **[Specific Service 2.1 (e.g., Custom Website Development)]**: Build scalable, secure, and high-performance websites tailored to your business needs.
     * **[Specific Service 2.2 (e.g., E-commerce Solutions)]**: Develop robust online stores that provide seamless shopping experiences.
     * **[Specific Service 2.3 (e.g., UI/UX Design)]**: Create intuitive and engaging user interfaces for optimal user experience.
