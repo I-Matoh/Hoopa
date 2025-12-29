@@ -10,7 +10,7 @@ Welcome to Hoopa! We are dedicated to providing innovative solutions and excepti
 ## 🌐 Marketing Website
 
 Our marketing website is your go-to resource for understanding who we are, what we offer, and how we can partner with you to achieve your goals.
-
+ 
 **Key features of our website:**
 
 * **Comprehensive Overview:** Learn about Hoopa's mission, vision, and core values.
